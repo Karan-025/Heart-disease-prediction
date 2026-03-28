@@ -1,15 +1,13 @@
---> For Model training
-     pandas ,numpy
-     scikit-learn
-     matplotlib
-     seaborn
-     streamlit
-     pickle
-
---> For web page and ui
-    gradio
-    pickle
-    numpy
-    requests
-    os
-    warnings
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+pickle
+gradio
+pickle
+numpy
+requests
+os
+warnings
