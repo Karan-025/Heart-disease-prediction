@@ -69,7 +69,7 @@ The goal is to predict whether a person is at risk based on medical attributes.
 * Better ROC curve performance
 * Reduced overfitting
 
-
+![image alt](https://github.com/Karan-025/Heart-disease-prediction/blob/bd70898ad423112ad005e74d9bce58356e545ffe/Screenshot%202026-03-25%20223339.png)
 
 ---
 
